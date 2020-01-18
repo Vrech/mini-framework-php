@@ -110,5 +110,3 @@ Outro exemplo:
             <p><?php echo utf8_encode($data['info']['corpo']); ?></p>
         </body>
     </html>
-
-[Meu portfólio](https://giovanivrech.com.br/)
